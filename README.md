@@ -44,7 +44,3 @@ Tea Smart offers an intuitive, nature-themed user interface with features for:
 - **Color Theme:** Green + Nature tones  
 - **Typography:** Clean, legible sans-serif fonts  
 
----
-
-## 📂 Project Structure
-
