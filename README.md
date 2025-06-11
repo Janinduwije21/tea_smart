@@ -5,7 +5,7 @@ Tea Smart is a mobile-first UI/UX design project focused on helping tea farmers 
 This repo contains the UI screens designed in **Figma** to support functionalities like weather forecasting, irrigation management, disease detection, tea education, and more.
 
 ---
-[Tea smart Ui](https://www.figma.com/design/7h9iQ7HFtaUVPxwrp9M4T6/Tea-smart--Copy-?node-id=0-1&t=Nb1Mb9INZ1G9qaEl-1)
+- Link -> [Tea smart Ui](https://www.figma.com/design/7h9iQ7HFtaUVPxwrp9M4T6/Tea-smart--Copy-?node-id=0-1&t=Nb1Mb9INZ1G9qaEl-1)
 
 ## 📱 App Overview
 
