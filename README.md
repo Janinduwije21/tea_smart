@@ -1,5 +1,12 @@
 # 🍃 Tea Smart UI
 
+## 🖼️ UI Preview
+
+![Tea Smart UI Preview](https://i.imgur.com/CfaUWt7.jpeg)
+
+> *Nature-inspired, mobile-first interface for smarter tea farming.*
+
+
 Tea Smart is a mobile-first UI/UX design project focused on helping tea farmers and buyers access essential tools, training, and insights for smarter, more sustainable tea production.
 
 This repo contains the UI screens designed in **Figma** to support functionalities like weather forecasting, irrigation management, disease detection, tea education, and more.
